@@ -1,3 +1,5 @@
+![TraceFlow 四视图同步法产研协同工作台](docs/assets/traceflow-readme-cover.png)
+
 # TraceFlow 产研协同工作台
 
 第二期研发智能挑战赛，场景一「H5 智能产研协同流程」的竞赛交付仓库。
@@ -34,7 +36,7 @@ TraceFlow 同时提供两种演示入口：可直接打开已交付的头像工�
 
 | 考核维度 | 交付内容 | 直接查看 |
 | --- | --- | --- |
-| 产品场景分析 | 业务问题、目标用户、项目目标、范围与真实性边界 | [PRD 需求文档](docs/requirements.md) · [交付对照表](docs/delivery-map.md) |
+| 产品场景分析 | 业务问题、目标用户、项目目标、范围与真实性边界 | [痛点分析和产品设计](https://bunqnf.github.io/ai-fullstack-workflow-report/ai-fullstack-workflow-report.html) · [PRD 需求文档](docs/requirements.md) · [交付对照表](docs/delivery-map.md) |
 | 产品方案设计 | 功能架构、六阶段主流程、角色规则、双路线 UI 审核和需求变更流转 | [PRD 需求文档](docs/requirements.md) · [流程原型](docs/prototype.md) |
 | UX 体验设计 | Figma 页面截图、四视图信息架构、需求对照表、AI 审核和变更协同关键帧 | **Figma 页面截图：** [项目总览](docs/assets/figma-keyframes/01-project-overview.png) · [需求对照表](docs/assets/figma-keyframes/02-requirement-matrix.png) · [AI 分析与审核](docs/assets/figma-keyframes/03-ai-analysis-review.png) · [变更影响与更新计划](docs/assets/figma-keyframes/04-change-impact-plan.png)<br>**设计文档：** [Figma 关键帧](https://www.figma.com/design/XDlIRPtgf6UZxU7gHPSso1) · [视觉说明](docs/visual-spec.md) |
 | HTML 交付实现 | 可交互高保真 Demo、源码、本地状态恢复与技术实现说明 | [技术就绪说明](docs/technical-spec.md) · [验收记录](docs/acceptance.md) · [GitHub Pages 在线演示](https://bunqnf.github.io/traceflow-demo/) |
@@ -71,4 +73,3 @@ docs/                        需求、流程、视觉、技术、AI 与验收过
 - 公开部署：GitHub Actions 构建 `dist/`，GitHub Pages 提供 HTTPS 静态网页。
 
 详细可检查材料见 [交付对照表](docs/delivery-map.md) 与 [验收记录](docs/acceptance.md)。
-
