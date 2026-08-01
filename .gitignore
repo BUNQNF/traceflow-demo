@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.DS_Store
+*.tsbuildinfo
+*.zip
+
+# Competition source materials stay local and are included only in the final archive.
+第二期研发智能挑战赛｜统一命题及考核方案.html
+第二期研发智能挑战赛｜考试题目.html
