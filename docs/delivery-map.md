@@ -15,6 +15,8 @@
 | 流程原型 | `docs/prototype.md`（T2 已通过） |
 | 视觉说明 | `docs/visual-spec.md`（T3 已通过）；[Figma 关键帧](https://www.figma.com/design/XDlIRPtgf6UZxU7gHPSso1)；冷灰弥散光与渐变主操作已冻结 |
 | 运行页面 | `src/App.tsx`（项目入口可打开已交付头像工坊，或从空白表单创建项目并推进至 `v1.0`）；方案资产随阶段解锁并区分本地附件与演示模拟；变更协同支持任意阶段发起、AI 关联分析和五项角色任务；本地预览：运行 `npm run dev`；技术方案：`docs/technical-spec.md`（T4 已通过） |
+| 公开演示 | [GitHub Pages](https://bunqnf.github.io/traceflow-demo/)（GitHub Actions 自动构建发布） |
+| 源码仓库 | [BUNQNF/traceflow-demo](https://github.com/BUNQNF/traceflow-demo)（两份比赛原始 HTML 仅本地保留，不进入公开仓库） |
 | 验收记录 | `docs/acceptance.md` |
 
 ## 当前阶段准入卡
